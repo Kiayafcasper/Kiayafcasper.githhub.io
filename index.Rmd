@@ -1,5 +1,5 @@
 ---
-title: "index.HTML"
+title: "index"
 output: html_document
 date: "2025-03-28"
 ---
